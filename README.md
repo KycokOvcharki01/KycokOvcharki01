@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+MSU Economic faculty graduate. Student at ITMO University, AI and Behavioral economics faculty. Aspiring data scientist. Academic interests: semi-online scheduling theory
+
+
+
+
 <!--
 **KycokOvcharki01/KycokOvcharki01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
