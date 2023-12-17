@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Paul Kondratov
+
 MSU Economic faculty graduate. Student at ITMO University, AI and Behavioral economics faculty. Aspiring data scientist. Academic interests: semi-online scheduling theory
 
 
